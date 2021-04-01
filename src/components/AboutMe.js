@@ -25,6 +25,8 @@ function AboutMe() {
                     <h2 className="about-heading">Contact Me</h2>
                     <p>Prathmesh Pathak</p>
                     <p>prathmesh.j.pathak@gmail.com</p>
+                    <p><a href="https://github.com/prarthamjp786">GitHub</a></p>
+                    <p><a href="https://www.linkedin.com/in/prathmesh-pathak/">LinkedIn</a></p>
                     <a href={resume} target="blank" class="btn btn-dark">Download Resume</a>
                 </div>
             </div>
